@@ -144,7 +144,7 @@ body{
 }
 
 .flap > .envelope > .letter {
-  bottom: 85%; /* Move the letter out of the envelope */
+  bottom: 80%; /* Move the letter out of the envelope */
   transform: none; /* Remove scaling */
   transition-delay: 1s;
 }
